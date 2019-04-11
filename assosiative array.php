@@ -4,6 +4,6 @@ foreach($salary askey=>valu)
 {
 
 
-divyamoovie
+divyamoovie mmm
 
    echo $key 
